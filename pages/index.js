@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Head from 'next/head'
 
 export default function Home() {
@@ -10,7 +9,6 @@ export default function Home() {
         <meta name="description" content="home description" />
       </Head>
       <h1>next</h1>
-      <Link href="/about">go to about</Link>
     </div>
   )
 }
