@@ -10,6 +10,7 @@ const About = () => {
                 <meta name="description" content="about description" />
             </Head>
             <h1>about</h1>
+            <button className="btn btn-primary">Primary Button</button>
         </div>
     );
 };
